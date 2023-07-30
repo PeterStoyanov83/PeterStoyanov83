@@ -4,8 +4,7 @@ My name is [Your Name], and I'm a passionate developer with a love for [Your Int
 
 ## About Me
 
-- 🏢 I'm currently working at [Your Company / Organization].
-- 🎓 Graduated from [Your University] with a degree in [Your Major].
+- 🏢 I'm currently as a freelancer.
 - 💻 I'm interested in [Your Interests or Focus Area], and I'm always eager to learn new technologies.
 
 ## Tech Stack
