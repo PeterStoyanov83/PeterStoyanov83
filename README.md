@@ -16,6 +16,8 @@ In my free time I like building and repairing guitars
 - ⚙️ Python | Rust | JavaScript
 - 🌐 HTML | CSS 
 - 🛢️ MySQL
+
+<!-- Tech Stack Icons -->
 ## Tech Stack Icons
 
 - <i class="fab fa-html5"></i> HTML
