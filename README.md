@@ -4,7 +4,7 @@
 Welcome to my GitHub profile!
 
 <!-- Introduction -->
-I'm a passionate software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
+I'm an apiring software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
 
 <!-- Tech Stack -->
 ## Tech Stack
