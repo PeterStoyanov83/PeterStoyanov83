@@ -3,7 +3,9 @@
 Welcome to my GitHub profile!
 
 I'm an aspiring software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
-In my free time, I like building and repairing guitars.
+I enjoy building guitars in my free time.
+
+![Building Guitars](https://thafcc.wordpress.com/2015/09/05/the-scientific-art-of-sound-when-making-a-guitar/)
 
 ## Tech Stack
 
