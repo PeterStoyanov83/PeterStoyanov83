@@ -4,14 +4,9 @@ My name is [Your Name], and I'm a passionate developer with a love for [Your Int
 
 ## About Me
 
-- 🏢 I'm currently as a freelancer.
-- 💻 I'm interested in [Your Interests or Focus Area], and I'm always eager to learn new technologies.
-
-## Tech Stack
-
 Here are some of the technologies and programming languages I work with:
 
-- ⌨️ [Language 1]
+<i class="fa-brands fa-python"></i>
 - 🚀 [Language 2]
 - 🌐 [Language 3]
 - 🛢️ [Database 1]
