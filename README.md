@@ -32,7 +32,7 @@ Here are some of my projects that I'm proud of:
 
 - 🌐 [Portfolio Website](https://peterstoyanov83.github.io/portfolio/)
 - 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/pstoyanov/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/pstoyanov/)
 - 📧 Email: peterstoyanov83@gmail.com
 
 <!-- Footer -->
