@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 
 <!-- Introduction -->
 I'm an apiring software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
+In my free time I like building and repairing guitars 
 
 <!-- Tech Stack -->
 ## Tech Stack
@@ -12,6 +13,15 @@ I'm an apiring software developer and technology enthusiast. I love building web
 - ⚙️ Python | Rust | JavaScript
 - 🌐 HTML | CSS 
 - 🛢️ MySQL
+## Tech Stack Icons
+
+- <i class="fab fa-html5"></i> HTML
+- <i class="fab fa-css3-alt"></i> CSS
+- <i class="fab fa-js-square"></i> JavaScript
+- <i class="fab fa-react"></i> React
+- <i class="fab fa-node"></i> Node.js
+- <i class="fas fa-database"></i> MongoDB
+- <i class="fas fa-server"></i> Express.js
 
 <!-- My Projects -->
 ## Projects
