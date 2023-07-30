@@ -1,40 +1,41 @@
-# Hi there! 👋
+<!-- Header -->
+# Hi there, I'm Peter Stoyanov! 👋
 
-My name is [Your Name], and I'm a passionate developer with a love for [Your Interests / Tech Stack]. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
-## About Me
+<!-- Introduction -->
+I'm a passionate software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
 
-Here are some of the technologies and programming languages I work with:
+<!-- Tech Stack -->
+## Tech Stack
 
-<i class="fa-brands fa-python"></i>
-- 🚀 [Language 2]
-- 🌐 [Language 3]
-- 🛢️ [Database 1]
-- 🌱 [Technology 1]
+- ⚙️ Python | Rust | JavaScript
+- 🌐 HTML | CSS 
+- 🛢️ MySQL
 
+<!-- My Projects -->
 ## Projects
 
-Here are some of my notable projects:
+Here are some of my projects that I'm proud of:
 
-- 🚀 [Project 1](Link to project repository): Brief description of the project.
-- 🌐 [Project 2](Link to project repository): Brief description of the project.
-- 🌱 [Project 3](Link to project repository): Brief description of the project.
+- [Project 1](https://github.com/PeterStoyanov83/Project1): Brief description of the project.
+- [Project 2](https://github.com/PeterStoyanov83/Project2): Brief description of the project.
+- [Project 3](https://github.com/PeterStoyanov83/Project3): Brief description of the project.
 
+<!-- GitHub Stats -->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterStoyanov83&show_icons=true&theme=dark)
 
+<!-- Connect with Me -->
 ## Connect with Me
 
-- 📧 Email: [Your Email Address]
-- 🌐 Website: [Your Portfolio Website]
-- 🐦 Twitter: [Your Twitter Handle]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 🌐 [Portfolio Website](https://peterstoyanov83.github.io/portfolio/)
+- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/YourLinkedInProfile](https://www.linkedin.com/in/pstoyanov/))
+- 📧 Email: peterstoyanov83@gmail.com
 
-## Fun Fact
-
-[Insert a fun or interesting fact about yourself.]
-
-Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't forget to give them a ⭐️ if you find something interesting.
-
-Happy coding! 🚀
+<!-- Footer -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge" alt="Made with love">
+</p>
