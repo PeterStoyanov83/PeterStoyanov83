@@ -5,9 +5,9 @@ Welcome to my GitHub profile!
 I'm an aspiring software developer and technology enthusiast. I love building web applications, exploring new technologies, and contributing to open-source projects.
 
 
-I enjoy building guitars in my free time.
+In my free time I build and repair guitars.
+![My Guitar Insta](https://www.instagram.com/stoyanoffguitars/)
 
-!(https://thafcc.wordpress.com/2015/09/05/the-scientific-art-of-sound-when-making-a-guitar/)
 
 ## Tech Stack
 
