@@ -11,16 +11,19 @@ In my free time, I like building and repairing guitars.
 - 🌐 HTML | CSS 
 - 🛢️ SQL
 
-## Tools I Use
+## Tools and Languages I Use
 
-- 🐍 Python (3.11)
+- 🐍 Python
 - 💻 JavaScript
 - 🦀 Rust
 - 🌐 HTML
 - 🎨 CSS
-- 📐 Figma
-- 🛠️ PyCharm
-- 🖥️ Terminal
+- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter
+
+## More Tools I am familiar with  
+- 🎵 Logic , ProTools, WavesAudio, Cubase, NI Komplete Library, VST
+- 📷 Photoshop, Adobe Illustratior, Figma
+- 🎥 Final Cut, Vegas Studio 
 
 ## Projects
 
