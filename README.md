@@ -21,10 +21,11 @@ In my free time I build and repair guitars.
 
 - 🐍 Python
 - 💻 JavaScript
-- 🦀 Rust
+- 🦀 Rust (new to it)
 - 🌐 HTML
 - 🎨 CSS
-- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter
+- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js
+  
 
 ## More Tools I am familiar with  
 - 🎵 Logic , ProTools, WavesAudio, Cubase, NI Komplete Library, VST
