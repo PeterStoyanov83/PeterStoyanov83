@@ -50,7 +50,7 @@ Here are some of my projects that I'm proud of:
 - 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pstoyanov/)
 - 📧 Email: peterstoyanov83@gmail.com
-
+My Score in Codewars.com - https://www.codewars.com/users/PeterStoyanov83/badges/large
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-blue?style=for-the-badge" alt="Made with love">
 </p>
