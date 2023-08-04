@@ -40,7 +40,7 @@ Here are some of my projects that I'm proud of:
 - [My assignment at MEBEA](https://github.com/PeterStoyanov83/Work_asignment_MEBEA): I had to create a time tracking app for the newtork of MEBEA.
 - [Work In Progress- I am still learning ](https://github.com/PeterStoyanov83/Object_oriented_programming_Python_2023): in August I finish The OPP Python course in SoftUni.bg .
 
-## GitHub Stats
+## GitHub and other Stats
 
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterStoyanov83&show_icons=true&theme=dark)
 
