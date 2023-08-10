@@ -22,7 +22,6 @@ In my free time I build and repair guitars.
 
 - 🐍 Python
 - 💻 JavaScript
-- 🦀 Rust (new to it)
 - 🌐 HTML
 - 🎨 CSS
 - 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js
