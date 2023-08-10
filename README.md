@@ -8,7 +8,7 @@ I'm an aspiring software developer and technology enthusiast. I love building we
 In my free time I build and repair guitars.
 
 
-[![Instagram](url_of_instagram_logo_image)](https://www.instagram.com/stoyanoffguitars/)
+[![Instagram][(https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg)](https://www.instagram.com/stoyanoffguitars/)
 
 
 
