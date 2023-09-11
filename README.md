@@ -22,7 +22,7 @@ https://www.instagram.com/stoyanoffguitars/
 - 💻 JavaScript
 - 🌐 HTML
 - 🎨 CSS
-- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js
+- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Solidity
   
 
 ## More Tools I am familiar with  
