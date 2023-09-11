@@ -25,7 +25,7 @@ https://www.instagram.com/stoyanoffguitars/
 - 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Solidity
 
 
-## Tech I am new to 
+## Tech I interested in 
 - Solidity
 - Blockchain
   
