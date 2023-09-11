@@ -26,6 +26,7 @@ https://www.instagram.com/stoyanoffguitars/
 
 
 ## Tech I interested in 
+- Web 3.0
 - Solidity
 - Blockchain
   
