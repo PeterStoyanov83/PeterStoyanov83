@@ -23,6 +23,12 @@ https://www.instagram.com/stoyanoffguitars/
 - 🌐 HTML
 - 🎨 CSS
 - 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Solidity
+
+
+## Tech I am new to 
+- Solidity
+- Blockchain
+  
   
 
 ## More Tools I am familiar with  
