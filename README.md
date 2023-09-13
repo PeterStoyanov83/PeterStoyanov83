@@ -20,7 +20,8 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 - 💻 JavaScript
 - 🌐 HTML
 - 🎨 CSS
-- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Solidity
+- Solidity
+- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Docker
 
 
 ## Tech I interested in 
