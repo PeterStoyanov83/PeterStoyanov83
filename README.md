@@ -1,4 +1,4 @@
-# Hi there 👋.  I'm Peter Stoyanov! 
+# Hi there 👋,  I'm Peter Stoyanov! 
 
 Welcome to my GitHub profile!
 
