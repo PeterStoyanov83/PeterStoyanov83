@@ -52,7 +52,6 @@ Here are some of my projects that I'm proud of:
 ## Connect with Me
 
 - 🌐 [Portfolio Website](https://peterstoyanov83.github.io/portfolio/)
-- 🐦 [Twitter](https://twitter.com/YourTwitterHandle)
 - 💼 [LinkedIn](https://www.linkedin.com/in/pstoyanov/)
 - 📧 Email: peterstoyanov83@gmail.com
 
