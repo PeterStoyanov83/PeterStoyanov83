@@ -38,7 +38,7 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 
 ## Projects
 
-### Here are some of my projects that I'm proud of:
+## Here are some of my projects that I'm proud of:
 
 [Job_website_scraper_2023](https://github.com/PeterStoyanov83/Job_scraper_2023): This Python script is designed to scrape DuckDuckGo's search results for job portals in Switzerland. It captures relevant links and descriptions, saves them to an Excel file, and then waits for 24 hours before the next crawl.
 
