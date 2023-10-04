@@ -10,9 +10,9 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 
 ## Tech Stack
 
-- ⚙️ Python | Rust | JavaScript
+- ⚙️ Python | JavaScript | Solidity
 - 🌐 HTML | CSS 
-- 🛢️ SQL
+- 🛢️ SQL | PostgreSQL
 
 ## Tools and Languages I Use
 
@@ -38,11 +38,14 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 
 ## Projects
 
-Here are some of my projects that I'm proud of:
+### Here are some of my projects that I'm proud of:
 
-- [Pong The Game](https://github.com/PeterStoyanov83/PONG): my first GUI project written in Python.
-- [My assignment at MEBEA](https://github.com/PeterStoyanov83/Work_asignment_MEBEA): I had to create a time tracking app for the newtork of MEBEA.
-- [Work In Progress- I am still learning ](https://github.com/PeterStoyanov83/Object_oriented_programming_Python_2023): in August I finish The OPP Python course in SoftUni.bg .
+[Job_website_scraper_2023](https://github.com/PeterStoyanov83/Job_scraper_2023): This Python script is designed to scrape DuckDuckGo's search results for job portals in Switzerland. It captures relevant links and descriptions, saves them to an Excel file, and then waits for 24 hours before the next crawl.
+
+[Simple_generative_NFT_in_solidity](https://github.com/PeterStoyanov83/Simple_generative_NFT_in_solidity): Smart contract code for creating or interacting with generative NFTs on the Ethereum blockchain. 
+
+
+[Blockchain](https://github.com/PeterStoyanov83/Blockchain): An intriguing repository name, but I would need more details or content within the repository to provide a specific description.
 
 ## GitHub and Other Stats
 
