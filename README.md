@@ -10,7 +10,7 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 
 ## Tech Stack
 
-- ⚙️ Python | JavaScript | Solidity
+- ⚙️ Python | JavaScript 
 - 🌐 HTML | CSS 
 - 🛢️ SQL | PostgreSQL
 
@@ -20,14 +20,13 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 - 💻 JavaScript
 - 🌐 HTML
 - 🎨 CSS
-- Solidity
 - 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Docker
 
 
 ## Tech I interested in 
-- Web 3.0
-- Solidity
-- Blockchain
+- Machine Learning  
+- Large Language Models  
+- Artificial Intelligence 
   
   
 
