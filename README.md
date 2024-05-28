@@ -21,6 +21,7 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 - 🌐 HTML
 - 🎨 CSS
 - 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Docker
+- 🔧 GIT
 
 
 ## Tech I interested in 
