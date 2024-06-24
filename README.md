@@ -13,6 +13,7 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 - ⚙️ Python | JavaScript 
 - 🌐 HTML | CSS 
 - 🛢️ SQL | PostgreSQL
+- AI model training | Ollama, LLama, OpenAI, LangChain, LangGraph
 
 ## Tools and Languages I Use
 
@@ -20,8 +21,8 @@ In my free time I build and repair guitars. take a look here - https://www.insta
 - 💻 JavaScript
 - 🌐 HTML
 - 🎨 CSS
-- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Docker
-- 🔧 GIT
+- 🛠️ PyCharm , WebStorm, ReadyAPI, Postman, NUnit, K6, Jmeter, Node.js, Docker, Jenkins,
+- 🔧 GIT, Github Actions 
 
 
 ## Tech I interested in 
