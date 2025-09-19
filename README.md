@@ -21,7 +21,7 @@ AI-powered chatbot helping citizens access municipal services.
 ### 🎉 [Almost Famous – Event & Lifestyle Website](https://www.almostfamous.bg/)  
 Modern responsive website for a lifestyle and events brand.  
 **Stack:** Next.js, TailwindCSS, SEO optimization.  
-- Pixel-perfect, mobile-first design.  
+- Mobile-first design + WPA installation.  
 - Fast, clean UX with multimedia integration.  
 
 ---
