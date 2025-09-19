@@ -65,7 +65,7 @@ Bilingual product website for hand-crafted guitars and basses.
 
 ### 🛠️ [Full-Stack Starter Kit](https://github.com/PeterStoyanov83/full-stack-starter-kit)  
 A boilerplate project for quickly setting up scalable full-stack applications.  
-**Stack:** TypeScript, Node.js, Docker, CI/CD setup.  
+**Stack:**  PHP, TypeScript, Node.js, Docker, CI/CD setup.  
 - Designed for clean architecture and rapid prototyping.  
 - Includes ready-to-use configurations for modern dev workflows.  
 
